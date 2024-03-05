@@ -1,0 +1,17 @@
+.strength-bar {
+    height: 30px;
+    width: 10px;
+    border: 1px solid #FFF;
+}
+
+.strength-bar.danger {
+    background-color: rgb(211, 96, 96);
+}
+
+.strength-bar.warning {
+    background-color: rgb(208, 208, 84);
+}
+
+.strength-bar.success {
+    background-color: rgb(59, 124, 59);
+}
