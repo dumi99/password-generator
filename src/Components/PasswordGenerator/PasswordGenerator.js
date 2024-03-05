@@ -5,7 +5,7 @@ import { useState } from "react";
 
 const PasswordGenerator = () => {
   const [generatedPassword, setGeneratedPassword] = useState(
-    "Hahaha sunt pe redux"
+    "Hahaha sunt pe redux111"
   );
   return (
     <div className="pg-container">
