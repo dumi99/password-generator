@@ -57,7 +57,7 @@ const FormPassword = ({ setGeneratedPassword }) => {
         bars: powerArray,
       });
     }
-  };
+  }
 
   const generatePassword = () => {
     if (
